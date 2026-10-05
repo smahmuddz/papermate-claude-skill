@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use PaperMate in your research workflow, please cite it as below."
+title: "PaperMate: A Claude Skill for Research Gap Finding, Novelty Checking, and Experiment Design"
+type: software
+version: 1.0.0
+date-released: 2026-10-05
+license: MIT
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+repository-code: "https://github.com/YOUR-USERNAME/papermate-claude-skill"
+keywords:
+  - claude skill
+  - research assistant
+  - research gap
+  - novelty check
+  - NLP
+  - LLM
+  - Google Colab
