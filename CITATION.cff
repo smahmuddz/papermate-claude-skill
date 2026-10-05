@@ -6,9 +6,9 @@ version: 1.0.0
 date-released: 2026-10-05
 license: MIT
 authors:
-  - family-names: "[Your Last Name]"
-    given-names: "[Your First Name]"
-repository-code: "https://github.com/YOUR-USERNAME/papermate-claude-skill"
+  - family-names: "Sabbir Mahmud"
+    given-names: "Afridi"
+repository-code: "https://github.com/smahmuddz/papermate-claude-skill"
 keywords:
   - claude skill
   - research assistant
